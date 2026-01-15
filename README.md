@@ -1,4 +1,5 @@
-This script will automatically resolve pending tags in a Canvas roster.
+**This script will automatically resolve pending tags in a Canvas roster. What the script does:**
+Finds students with pending tags, removes ALL sections that start with alphabets, and re-adds students back to that section.
 
 **Before you run the script, make sure:**
 1. You are logged into your admin account.
