@@ -14,8 +14,8 @@ Finds students with pending tags, removes students from **ALL sections that star
  1. Navigate to course with pending tags.
  2. Go to the 'People' tab.
  3. Right click on page and click inspect/inspect element. You should see something similar to the image below.
- 3. Navigate to the 'Console' tab. (view 1 in above image)
+ 3. Navigate to the 'Console' tab. 
  4. Go to github [https://github.com/pul-kit/asu_pendingtags/blob/main/script.js] and copy the script.
- 3. Paste the script in the console (view 2 in the first image) and press enter.
+ 3. Paste the script in the console and press enter.
      A. Sometimes, the console might not allow you to paste anything. You might have to type something like "allow pasting" and press enter before you can paste.
  4. The script will run and resolve pending tags for you. Keep the screen visible and the script should keep running.
