@@ -1,17 +1,16 @@
 This script will automatically resolve pending tags in a Canvas roster.
 
+**WHAT THE SCRIPT DOES:**
+Finds students with pending tags, removes students from **ALL sections that start with an alphabet**, and re-adds students back to those sections.
 
-WHAT THE SCRIPT DOES:
-Finds students with pending tags, removes students from ALL sections that start with an alphabet, and re-adds students back to those sections.
 
-
-BEFORE YOU RUN THE SCRIPT, MAKE SURE:
+**BEFORE YOU RUN THE SCRIPT, MAKE SURE:**
  1. You are logged into your admin account.
  2. Students are in both the course section and their instructor's section.
  3. Course section starts with numbers. (e.g. 15324)
  4. Instructor section begins with an alphabet (e.g. LDES512...)
 
-HOW TO USE:
+**HOW TO USE:**
  1. Navigate to course with pending tags.
  2. Go to the 'People' tab.
  3. Right click on page and click inspect/inspect element. You should see something similar to the image below.
