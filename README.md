@@ -13,7 +13,7 @@ Finds students with pending tags, removes students from **ALL sections that star
 **HOW TO USE:**
  1. Navigate to course with pending tags.
  2. Go to the 'People' tab.
- 3. Right click on page and click inspect/inspect element. You should see something similar to the image below.
+ 3. Right click on page and click inspect/inspect element.
  3. Navigate to the 'Console' tab. 
  4. Go to github [https://github.com/pul-kit/asu_pendingtags/blob/main/script.js] and copy the script.
  3. Paste the script in the console and press enter.
